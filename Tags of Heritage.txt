@@ -1,0 +1,24 @@
+#ProductInfo-template--template--23621180457267__main__main > div.t4s-richtext_text_ewcU3Q.t4s-pr__richtext.t4s-rte
+
+#ProductInfo-template--template--23621180457267__main__main > div.t4s-richtext_text_ewcU3Q.t4s-pr__richtext.t4s-rte
+
+#ProductInfo-template--template--23621180457267__main__main > div.t4s-richtext_text_ewcU3Q.t4s-pr__richtext.t4s-rte
+
+#ProductInfo-template--template--23621180457267__main__main > div.t4s-richtext_text_ewcU3Q.t4s-pr__richtext.t4s-rte
+
+
+
+-----------\\\Image\\\--------
+#shopify-section-template--23621180457267__main > div > div > div > div > div.t4s-col-md-6.t4s-col-12.t4s-col-item.t4s-product__media-wrapper > div > div.t4s-col-lg.t4s-order-lg-last.t4s-col-12.t4s-col-item.t4s-pr > div.t4s-row.t4s-g-0.t4s-slide-eff-fade.flickityt4s.t4s_ratioadapt.t4s_position_8.t4s_cover.t4s-flicky-slider.t4s-slider-btn-true.t4s-slider-btn-style-outline.t4s-slider-btn-round.t4s-slider-btn-small.t4s-slider-btn-cl-dark.t4s-slider-btn-vi-always.t4s-slider-btn-hidden-mobile-false.flickityt4s-enabled.is-draggable.is-fade.t4s-enabled > div > div > div.t4s-col-12.t4s-col-item.t4s-product__media-item.is-selected > div > img
+
+
+----\\\----
+#shopify-section-template--23621180457267__main > div > div > div > div > div.t4s-col-md-6.t4s-col-12.t4s-col-item.t4s-product__media-wrapper > div > div.t4s-col-lg.t4s-order-lg-last.t4s-col-12.t4s-col-item.t4s-pr > div.t4s-row.t4s-g-0.t4s-slide-eff-fade.flickityt4s.t4s_ratioadapt.t4s_position_8.t4s_cover.t4s-flicky-slider.t4s-slider-btn-true.t4s-slider-btn-style-outline.t4s-slider-btn-round.t4s-slider-btn-small.t4s-slider-btn-cl-dark.t4s-slider-btn-vi-always.t4s-slider-btn-hidden-mobile-false.flickityt4s-enabled.is-draggable.is-fade.t4s-enabled > div > div > div.t4s-col-12.t4s-col-item.t4s-product__media-item.is-selected > div > img
+
+
+----\\\\----
+#shopify-section-template--23621180457267__main > div > div > div > div > div.t4s-col-md-6.t4s-col-12.t4s-col-item.t4s-product__media-wrapper > div > div.t4s-col-lg.t4s-order-lg-last.t4s-col-12.t4s-col-item.t4s-pr > div.t4s-row.t4s-g-0.t4s-slide-eff-fade.flickityt4s.t4s_ratioadapt.t4s_position_8.t4s_cover.t4s-flicky-slider.t4s-slider-btn-true.t4s-slider-btn-style-outline.t4s-slider-btn-round.t4s-slider-btn-small.t4s-slider-btn-cl-dark.t4s-slider-btn-vi-always.t4s-slider-btn-hidden-mobile-false.flickityt4s-enabled.is-draggable.is-fade.t4s-enabled > div > div > div.t4s-col-12.t4s-col-item.t4s-product__media-item.is-selected > div > img
+-----\\\\\---
+
+image class ---
+body > b > b > b > div.pswp.pswp__t4s.pswp--supports-fs.pswp--open.pswp--animate_opacity.pswp--notouch.pswp--css_animation.pswp--svg.pswp--zoom-allowed.pswp--visible.pswp--animated-in > div.pswp__scroll-wrap > div.pswp__container > div:nth-child(2) > div > img

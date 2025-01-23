@@ -1,0 +1,200 @@
+	Gem Carat:
+	Under 1 Carat 
+	0.5 Carat
+	1 Carat
+	2 Carat
+	2.5 Carat
+	3 Carat
+	4 Carat
+	5 Carat
+	6 Carat
+	7 Carat
+	8 Carat
+	9 Carat
+	10 Carat
+	- 0.25 Carat Each Side Stone
+	 - Approx 0.25 Carat Smalls
+	 - Approx 0.5 Carat Smalls
+	 - Approx 0.75 Carat Smalls
+	 - Approx 1 Carat Smalls
+	 - Approx 2 Carat Smalls
+	
+	Gem Shape:
+	
+	Round Cut
+	Oval Cut
+	Princess Cut
+	Emerald Cut
+	Baguette Cut
+	Pear Cut
+	Marquise Cut
+	Heart Cut
+	Asscher Cut
+	Radiant Cut
+	Cushion Cut
+	Trilliant Cut
+	
+	Cut Type:
+	
+	Crushed Ice
+	Brilliant Cut
+	Hearts & Arrows
+	Rose Cut
+	Double Rose Cut
+	Old Mine European Cut
+	
+	Gem Color:
+	
+	D-E-F Colorless
+	G-H Color
+	K-M Color
+	Blue
+	Green
+	Yellow
+	Blue-Green
+	Black
+	Pink
+	Gray
+	
+	Gem Setting:
+	Pave Wrap
+	Solitaire
+	Tension
+	starburst
+	Halo
+	Hidden Halo
+	Double Halo
+	Double Edge Halo
+	Seamless Halo (Subtle)
+	Floating Halo
+	Flush Halo 
+	
+	Side Stone
+	Graduated Side Stone
+	Bezel
+	Vintage
+	Three Stone
+	Seven Stone
+	Bead set
+	French Pave
+	Pave
+	Channel
+	Bar 
+	Gypsy
+	Shared Prong
+	Surface Prong
+	Scalloped
+	Fishtail
+	Marquise
+	Cluster
+	
+	Shank Design:
+	Milgrain
+	Engraved
+•	Classic
+•	Flat
+•	Flat Edge
+•	Round Band
+•	Wide Band
+•	Thick Band
+•	Thin Band
+	Knife Edge
+•	Modern
+	Euro Shank
+	Tapered
+pinched	Reverse Tapered
+	Split Shank
+	Wide Split Shank
+	Reverse Split Shank
+	Infinity Shank
+	Twisted Shank
+	Bypass
+	Triple band
+	Filigree
+•	Vintage
+	Plain Band
+	Scalloped 
+	Eternity Band
+	
+	Half Round
+	Prong/Claw:
+	
+	Fishtail
+	Round
+	V
+	Peg Head
+	Heart
+	Double
+	2 Prong
+•	3 Prong
+	4 Prong
+	5 Prong
+	6 Prong
+	7 Prong
+•	8 Prong
+	9 Prong
+	10 Prong
+	
+	Round-4 Prong
+	Round-6 Prong
+	Round-8 Prong
+	
+	2 Claw
+	3 Claw
+	4 Claw
+	5 Claw
+	6 Claw
+	7 Claw
+	8 Claw
+•	9 Claw
+•	10 Claw
+	Profile:
+	Modern
+	Bridge Accent
+	Cathedral
+	Trellis
+	Basket
+	Low Basket
+	Low Set
+	Kite Set 
+	High Set
+	Prong
+	Tulip Set
+	Invisible Gallery
+	Tension
+	Crown
+	Swirl
+	Gem:
+	
+	Diamond
+	Moissanite
+	Ruby
+	Saphire
+	Emerald
+	Paraiba
+	alexandrite
+	
+	Use as:
+	
+	Engagement Ring
+	Earrings
+•	Necklace
+	Bracelet
+	Eternity Band
+	Two Piece Bridal Set
+	Three Piece Bridal Set
+
+	Gem Clarity:
+	
+	FL
+	IF
+	VVS1 - VVS2
+	VVS1
+	VVS2
+	VS
+	VS1
+	VS2
+
+	Gem Cut
+	
+	Excellent
